@@ -1,0 +1,21 @@
+Create 1 page website
+
+Objectives
+
+To demonstrate your understanding of HTML and CSS
+To demonstrate your understanding of content structure
+To demonstrate your understanding of controlling styling
+Overview
+
+Create a 1 page web site that consist of a bio page.
+
+Instructions
+
+Fork lab repo here
+Construct pages using HTML and CSS with the IDE of your choice
+use Git to track your changes
+All files should reside in a organized folder structure
+Pull request when complete
+Requirements
+
+*CSS must me linked from an external file *Must have at minimum 1 image file *Final product must be posted to GitHub.com
